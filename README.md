@@ -26,24 +26,24 @@ More challenges will be added continuously.
 
 ## 📁 Repository Structure
 
+```text
 CTF-Writeups/
-│
 ├── Mr-Robot-CTF/
-│ ├── enumeration.md
-│ ├── exploitation.md
-│ ├── flags.txt
-│ └── screenshots/
+│   ├── enumeration.md
+│   ├── exploitation.md
+│   ├── flags.txt
+│   └── screenshots/
 │
 ├── TCS-HackQuest/
-│ ├── crypto/
-│ ├── web/
-│ ├── forensics/
-│ └── notes.md
+│   ├── crypto/
+│   ├── web/
+│   ├── forensics/
+│   └── notes.md
 │
 ├── tools-used.md
 ├── learning-notes.md
 └── README.md
-
+```
 
 ---
 
